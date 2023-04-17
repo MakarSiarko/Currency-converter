@@ -1,0 +1,40 @@
+body {
+  box-sizing: border-box;
+}
+body .container {
+  width: 100%;
+  max-width: 1000 px;
+  margin: 0 auto;
+  height: 225px;
+  width: 750px;
+}
+body .container .main {
+  width: auto;
+  height: auto;
+  border: 1px solid rgb(200, 200, 200);
+  border-radius: 3px;
+}
+body .container .main h1 {
+  text-align: center;
+  font-family: italic;
+}
+body .container .main .rates .course-item {
+  border: 1px solid rgb(200, 200, 200);
+  border-radius: 3px;
+  margin: 15px;
+  padding: 0px;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+body .container .main .Select {
+  border: 1px solid rgb(200, 200, 200);
+  border-radius: 3px;
+  margin: 10px;
+}
+body .container .main .input {
+  border: 1px solid rgb(200, 200, 200);
+  border-radius: 3px;
+}
+
+/*# sourceMappingURL=style.css.map */
